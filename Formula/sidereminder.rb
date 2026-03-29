@@ -1,9 +1,9 @@
 class Sidereminder < Formula
   desc "Side Reminder CLI — manage reminders from the terminal"
   homepage "https://github.com/jologan/sidereminder-cli"
-  url "https://github.com/jologan/sidereminder-cli/releases/download/v0.4.0/sidereminder-0.4.0-macos-universal.tar.gz"
-  sha256 "50ce58ad2743516413bc98626910df4f7100ddb4c47f51b2eb2b7088cf76886d"
-  version "0.4.0"
+  url "https://github.com/jologan/sidereminder-cli/releases/download/v0.4.1/sidereminder-0.4.1-macos-universal.tar.gz"
+  sha256 "8e714fbcccfa6eaf23ca6b20d7191fdc2e91b1378befdebea578f7994831f14b"
+  version "0.4.1"
   license "MIT"
 
   def install
